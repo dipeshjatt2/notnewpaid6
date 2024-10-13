@@ -14,8 +14,8 @@ from telethon.sync import TelegramClient
 import telebot
 from datetime import datetime, timedelta
 
-BOT_TOKEN = "7866801642:AAE07AwB-Q7utZ4DVahkUTzLtg_UoduH_yE"
-ADMIN_CHAT_ID = "6009176071"
+BOT_TOKEN = "6726540858:AAF-tG_a4C3GPywluD6TcdK-kM28sBnX49s"
+ADMIN_CHAT_ID = "5203820046"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
